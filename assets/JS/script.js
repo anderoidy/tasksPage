@@ -1,4 +1,4 @@
-//Creditos Fonte de estudo para reproduzir esse projeto 
+//Credits Font of estudy to this project 
 //https://ichi.pro/pt/fazendo-uma-lista-de-tarefas-com-html-css-e-javascript-23399950151862
 
 const todoObjectList = [];
